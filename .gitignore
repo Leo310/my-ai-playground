@@ -3,3 +3,6 @@ sample_data
 data
 *.pth
 .venv
+*.pt
+data
+.DS_Store

@@ -5,3 +5,6 @@ imageio
 torchvision
 torch
 transformers
+scipy
+neuron
+scikit-learn
