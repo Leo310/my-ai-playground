@@ -1,8 +1,8 @@
 __pycache__
 sample_data
-data
+data/
+!Machine*Intelligence/**/data/
 *.pth
 .venv
 *.pt
-data
 .DS_Store
